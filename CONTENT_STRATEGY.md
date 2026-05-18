@@ -1,6 +1,6 @@
 # Content Strategy — Literature By Edumynt
 
-Domain: https://literature.edumynt.com
+Domain: https://literature.edumynt.in
 Audience: general audience + serious learners who want simple bilingual explanations.
 Core promise: explain literature so clearly that a 5-year-old can understand the idea, while preserving exam keywords.
 
